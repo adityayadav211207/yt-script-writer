@@ -45,4 +45,4 @@ streamlit run youtube_script_writer.py
 Add a license of your choice (MIT, Apache 2.0, etc.).
 ```
 
-***
+
