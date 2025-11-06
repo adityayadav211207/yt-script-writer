@@ -5,7 +5,7 @@ import streamlit as st
 # ----------------------
 st.set_page_config(page_title="🎬 YouTube Script Writer", page_icon="🎥", layout="centered")
 # Your Google API Key (⚠️ Better to store in st.secrets, but using inline as requested)
-GOOGLE_API_KEY = "AIzaSyByCu_b1l5y-aDlphKFpOETS_znDivZTCU"
+GOOGLE_API_KEY = "Enter Gemini api key"
 
 llm = GoogleGenerativeAI(
     model="models/gemini-2.5-flash",
